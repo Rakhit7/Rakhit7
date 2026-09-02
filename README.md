@@ -1,1 +1,1 @@
-<img width="1080" height="1080" alt="Untitled design-23" src="https://github.com/user-attachments/assets/23f2647d-b101-4f70-932b-9b26aa82d92e" />
+<a href="https://www.clipartmax.com/middle/m2i8A0i8b1G6N4H7_steps-luffy-star-eyes-png/" target="_blank">Steps - Luffy Star Eyes Png @clipartmax.com</a>
