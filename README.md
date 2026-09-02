@@ -1,1 +1,1 @@
-<img src="https://www.clipartmax.com/png/middle/211-2111120_steps-luffy-star-eyes-png.png" alt="Steps - Luffy Star Eyes Png@clipartmax.com">
+<img width="1080" height="1080" alt="Untitled design-21" src="https://github.com/user-attachments/assets/89b4f8ac-1cf4-496d-b463-d58ed672dd2d" />
