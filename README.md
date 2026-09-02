@@ -8,13 +8,6 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/rakhit-thapa/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="rakhitthapa@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 </div>
 
 ---
@@ -24,7 +17,7 @@
 ```python
 class Rakhit:
 
-    role = "AI Engineer in the making"
+    role = "AI Engineer"
 
     interests = [
         "Artificial Intelligence",
@@ -68,7 +61,7 @@ class Rakhit:
 
 ### AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
 
 ### Engineering
 
@@ -141,13 +134,10 @@ AI Automation · Workflow Engineering · API Integration · LLM Applications
 
 </div>
 
----
-
-</div>
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
